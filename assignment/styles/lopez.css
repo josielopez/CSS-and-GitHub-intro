@@ -43,7 +43,7 @@ a:focus {
 a:hover {
   color: #cc8d28;
 }
-a:activate {
+a:active {
   color: #fffaf2;
 }
 
@@ -59,7 +59,7 @@ footer a:focus {
 footer a:hover {
   color: #ffcd1c;
 }
-footer a:activate {
+footer a:active {
   color: #c6a5ff;
 }
 
